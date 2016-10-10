@@ -2,7 +2,7 @@
  * Created by Administrator on 2016/8/9.
  */
 var WINDOW_WIDTH,WINDOW_HEIGHT,RADIUS,MARGIN_TOP,MARGIN_LEFT;
-const endtime=new Date(2016,8,18,20,20,20);
+const endtime=new Date(2016,9,14,20,20,20);
 var curShowTimeSeconds=0;
 
 var balls=[];
